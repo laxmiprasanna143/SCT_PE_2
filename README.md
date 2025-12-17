@@ -42,3 +42,11 @@ Output:
 "One stormy night, a forgotten robot blinked awake and whispered its first word: ‘Hello.’"
 
 🔍 Comparison & Analysis
+
+.The base prompt produced a generic, predictable response.
+.Tone variation created a playful, humorous version fit for children.
+.Persona-driven prompts gave deep, narrative-rich sci-fi tones.
+.Few-shot prompting led to a poetic and whimsical story hook.
+✅ Conclusion
+Adding tone, persona, and few-shot examples transforms plain prompts into engaging, audience-specific outputs.
+This showed how structured creativity can turn a simple robot story into multiple unique styles.
