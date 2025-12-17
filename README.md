@@ -44,8 +44,11 @@ Output:
 🔍 Comparison & Analysis
 
 .The base prompt produced a generic, predictable response.
+
 .Tone variation created a playful, humorous version fit for children.
+
 .Persona-driven prompts gave deep, narrative-rich sci-fi tones.
+
 .Few-shot prompting led to a poetic and whimsical story hook.
 
 ✅ Conclusion
