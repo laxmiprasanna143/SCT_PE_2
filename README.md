@@ -6,6 +6,7 @@ Explore how prompt structure, tone, and examples influence creative outputs.
 Use tone variation, persona-driven prompts, and few-shot prompting to compare results.
 
 Base Prompt (Vague)
+
 Prompt:
 "Write a story about a robot."
 
@@ -13,6 +14,7 @@ Output:
 "A robot was built to help humans. One day, it started exploring emotions and wanted to be more human-like."
 
 Improved Prompts & Outputs
+
 1. Tone Variation
 Prompt:
 "Write a funny children’s story about a clumsy robot who tries to cook."
